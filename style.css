@@ -1,0 +1,279 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0px;
+    padding-top: 0px;
+}
+#top-page{
+    height: 900px;
+    text-align: center;
+    background-image: url(images/img1.jpg);
+    background-repeat: no-repeat;
+    margin-top: 0px;
+
+}
+.top-page{
+   padding-left: 200px;
+   padding-right: 200px;
+   size: 200px;
+}
+#header{
+    font-size: 70px;
+    color: rgb(0, 0, 0);
+    padding-top: 200px;
+}
+#introduction{
+    font-size: 25px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+p span{
+    background-color: rgb(208, 128, 30);
+    display: inline;
+}
+#button1{
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    background-color: rgb(23, 201, 23);
+    font-weight: 700;
+    padding: 15px 30px;
+    border-radius: 7px;
+    margin-left: 0px;  
+    margin-top: 40px;
+}
+
+
+
+#second-page{
+    height: 700px;
+    text-align: center;
+    margin-top: 150px;
+
+}
+#donate-now{
+    font-size: 60px;
+}
+#donation{
+    font-size: 25px;
+}
+.amount{
+    background-color: rgb(237, 232, 232);
+    border: none;
+    color: rgb(60, 58, 58);
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+}
+.other-amount{
+    height: 50px;
+    width: 830px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+.other-amount{
+    font-family: 'Titillium Web', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 350px;
+}
+#shoot{
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    background-color: rgb(23, 201, 23);
+    font-weight: 700;
+    padding: 20px 40px;
+    border: 0px;
+    border-radius: 7px;
+    margin-left: 0px;  
+    margin-top: 10px;
+}
+
+
+
+#third-page{
+    height: 700px;
+    text-align: center;
+}
+#our-plan{
+    margin-top: 50px;
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+#division{
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.plans{
+    display: flex;
+}
+.individual-plans{
+    height: 300px;
+    width: 33%;
+    text-align: justify;   
+}
+#plan1{
+    background-color: blanchedalmond;
+    padding: 20px;
+    display: inline;
+    margin-left: 80px;
+    margin-right: 20px;  
+}
+#plan2{
+    background-color: rgb(225, 186, 225);
+    padding: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+#plan3{
+    background-color: rgb(177, 193, 177);
+    padding: 20px;
+    border: 0px;
+    margin-left: 20px;
+    margin-right: 80px;
+}
+.brief{
+    font-size: 25px;
+}
+
+
+
+#fourth-page{
+    height: 400px;
+    display: flex;
+}
+.extra{
+    
+    height: 0px;
+    width: 50%;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+#blood{
+    width: 30%;
+    margin-left: 150px;
+    background-color: crimson;
+}
+#article{
+    width: 30%;
+   margin-left: 300px;
+   background-color: limegreen;
+}
+#flood{
+    margin-top: 0px;
+    margin-bottom: 450px;
+    text-align: center;
+    background-color: bisque;
+}
+#blood-donate{
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    background-color: crimson;
+    font-weight: 700;
+    padding: 15px 30px;
+    border-radius: 7px;
+    margin-left: 0px;  
+    margin-top: 140px;
+}
+#tree-plant{
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    background-color: rgb(23, 201, 23);
+    font-weight: 700;
+    padding: 15px 30px;
+    border-radius: 7px;
+    margin-left: 0px;  
+    margin-top: 40px;
+}
+#sylhet{
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    background-color: rgb(73, 105, 131);
+    font-weight: 700;
+    padding: 15px 20px;
+    border-radius: 7px;
+    margin-left: 0px;  
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+
+
+#req4info{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+#text{
+    height: 150px;
+    width: 600px;
+}
+#email{
+    width: 400px;
+    height: 30px;
+}
+#send{
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    background-color: rgb(23, 201, 23);
+    font-weight: 700;
+    padding: 20px 40px;
+    border: 0px;
+    border-radius: 7px;
+    margin-left: 0px;  
+    margin-top: 10px;
+}
+
+
+
+footer{
+    height: 250px;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(192, 228, 161);
+    color: white;
+}
+#fb{
+    height: 100px;
+    text-decoration: none;
+    width: 200px;
+    border: 0px #fff;
+    background-color: rgb(107, 107, 245);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
+#yt{
+    height: 100px;
+    text-decoration: none;
+    width: 200px;
+    border: 0px #fff;
+    background-color: rgb(245, 107, 107);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
+#insta{
+    height: 100px;
+    text-decoration: none;
+    width: 200px;
+    border: 0px #fff;
+    background-color: rgb(224, 95, 175);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
